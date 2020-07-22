@@ -7,7 +7,7 @@ tools:
       windows: https://github.com/Peltoche/lsd/releases/download/${version}/lsd-${version}-x86_64-pc-windows-msvc.zip
 
   - name: Node.js
-    version: 12.17.0
+    version: 12.18.2
     download:
       linux: https://nodejs.org/dist/v${version}/node-v${version}-linux-x64.tar.gz
       windows: https://nodejs.org/dist/v${version}/node-v${version}-win-x64.zip
